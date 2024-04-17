@@ -10,7 +10,7 @@ Abstract. Recent advancements in diffusion models have shown remarkable proficie
 
 ## Pipeline
 
-![DATENeRF Pipeline](https://github.com/sararoma95/DATENeRF/imgs/pipeline.png)
+![DATENeRF Pipeline](https://github.com/sararoma95/DATENeRF/pipeline.png)
 
 ## Checklist
 
